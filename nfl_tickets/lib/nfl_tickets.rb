@@ -9,5 +9,5 @@ require_relative 'nfl_tickets/api'
 
 module NflTickets
   class Error < StandardError; end
-  # Your code goes here...
+  
 end
